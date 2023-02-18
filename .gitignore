@@ -1,0 +1,5 @@
+/ag_models/models/unzipped_models/*
+# !ag_models/models/*.pkl
+# !ag_models/models/*.sh
+# !ag_models/models/*.zip
+workspace.tar.gz
